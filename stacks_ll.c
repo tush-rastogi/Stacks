@@ -1,4 +1,4 @@
-// through linked list
+// Implementation of stacks through linked list
 
 #include<stdio.h>
 #include<stdlib.h>
@@ -106,7 +106,7 @@ int main()
        while(p!=NULL)
        {
          printf("%d\n",p->info);
-         p=top->link;
+         p=p->link;
         
        }
   

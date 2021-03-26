@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include <stdlib.h>
 #include<string.h>
-
+#include<math.h>
 #define MAX 20
 char infix[MAX];
 char postfix[MAX];

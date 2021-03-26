@@ -1,5 +1,4 @@
-/* using array
-*/
+// Implementation of stacks through array
 #include<stdio.h>
 #include<stdlib.h>
 #define max 10
